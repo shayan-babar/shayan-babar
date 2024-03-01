@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript, C## and Python**
 
-- 👨‍💻 My skills [shaayaan.netlify.app](shaayaan.netlify.app)
+- 👨‍💻 My skills [shaayaan.netlify.app](https://shaayaan.netlify.app/)
 
 - 📝 I regularly **Code**
 

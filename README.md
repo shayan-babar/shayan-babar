@@ -10,22 +10,22 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayan-babar" alt="shayan-babar" /></a> </p>
 <div align="center">
  <br>
- <hr>
- 🔭 I’m currently Studying **Computer Science**
 
- 🌱 I’m currently learning **JavaScript, C## and Python**
+- 🌱 I’m currently learning *JavaScript, C## and Python*
 
- 👨‍💻 My skills [shayan.com](https://shaayaan.netlify.app/)
+- 👨‍💻 My skills [shayan.com](https://shaayaan.netlify.app/)
 
- 📝 I regularly **Code**
+- 📝 I regularly *Code*
 
- 📫 How to reach me **shayanbabar128@gmail.com**
+- 📫 How to reach me *shayanbabar128@gmail.com*
 
-  ⚡ Hobby **Coding and Cricket**
+- ⚡ Hobby *Coding and Cricket*
+
+ <hr/>
+ 
 </div>
-<hr/>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me:</h3>
 <br/>
 <div align="center">
 <a href="https://twitter.com/shaayan_babar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaayan_babar" height="30" width="40" /></a>
@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git,r" /><br/>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,c,java,nextjs," /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git," /><br/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,nextjs," /><br>
 </div>
 
 <br/>

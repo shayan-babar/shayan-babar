@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayan-babar" alt="shayan-babar" /></a> </p>
 <div align="center">
- <hr/>
+ <br>
+ <hr>
  🔭 I’m currently Studying **Computer Science**
 
  🌱 I’m currently learning **JavaScript, C## and Python**
@@ -39,12 +40,18 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs," /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git,r" /><br/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,c,java,nextjs," /><br>
 </div>
 
 <br/>
 <hr/>
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan-babar&show_icons=true&locale=en&layout=compact" alt="shayan-babar" /></p>
 

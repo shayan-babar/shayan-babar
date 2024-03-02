@@ -10,7 +10,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayan-babar" alt="shayan-babar" /></a> </p>
 <div align="center">
  <br>
-
+<h1 align""center>About Me</h1>
+ <br/>
+ 
 - 🌱 I’m currently learning *JavaScript, C## and Python*
 
 - 👨‍💻 My skills [shayan.com](https://shaayaan.netlify.app/)
@@ -20,12 +22,12 @@
 - 📫 How to reach me *shayanbabar128@gmail.com*
 
 - ⚡ Hobby *Coding and Cricket*
-
- <hr/>
  
 </div>
+<br/>
+<hr/>
 
-<h3 align="center">🔗 Connect with me:</h3>
+<h1 align="center">🔗 Connect with me:</h1>
 <br/>
 <div align="center">
 <a href="https://twitter.com/shaayan_babar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaayan_babar" height="30" width="40" /></a>
@@ -37,7 +39,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git," /><br/>

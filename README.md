@@ -2,14 +2,14 @@
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+GitHub+Fellows+👋;+I'm+Shayan+Babar;" />
 </h1>
-
+<br/>
 <h3 align="center">As a passionate programmer, I immerse myself in the intricacies of code, finding beauty in the logic and elegance of algorithms. With every line I write, I sculpt solutions to challenges, driven by an insatiable curiosity and a relentless pursuit of innovation. Programming is not just my skill; it's my art form.</h3>
+<br/>
+<hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan-babar&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-babar" /> </p>
+![](https://github-profile-trophy.vercel.app/?username=shayan-babar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayan-babar" alt="shayan-babar" /></a> </p>
 <div align="center">
- <br>
 <h1 align""center>About Me</h1>
  <br/>
  
@@ -55,8 +55,8 @@
   <br/><br/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan-babar&show_icons=true&locale=en&layout=compact" alt="shayan-babar" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shayan-babar&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shayan-babar&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-babar&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-babar&show_icons=true&locale=en" alt="shayan-babar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-babar&" alt="shayan-babar" /></p>

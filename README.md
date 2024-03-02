@@ -1,5 +1,8 @@
 ![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
- <h1 align="center">Hi 👋, I'm Shayan Babar</h1>
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+Github+Fellows+👋;+I'm+Shayan+Babar;" />
+</h1>
+
 <h3 align="center">As a passionate programmer, I immerse myself in the intricacies of code, finding beauty in the logic and elegance of algorithms. With every line I write, I sculpt solutions to challenges, driven by an insatiable curiosity and a relentless pursuit of innovation. Programming is not just my skill; it's my art form.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan-babar&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-babar" /> </p>

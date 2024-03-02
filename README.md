@@ -2,30 +2,12 @@
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+GitHub+Fellows+👋;+I'm+Shayan+Babar;" />
 </h1>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan-babar&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-babar" /> </p>
 <h3 align="center">As a passionate programmer, I immerse myself in the intricacies of code, finding beauty in the logic and elegance of algorithms. With every line I write, I sculpt solutions to challenges, driven by an insatiable curiosity and a relentless pursuit of innovation. Programming is not just my skill; it's my art form.</h3>
 <br/>
 <hr/>
 
 ![](https://github-profile-trophy.vercel.app/?username=shayan-babar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-<div align="center">
-<h1 align""center>About Me</h1>
- <br/>
- 
-- 🌱 I’m currently learning *JavaScript, C## and Python*
-
-- 👨‍💻 My skills [shayan.com](https://shaayaan.netlify.app/)
-
-- 📝 I regularly *Code*
-
-- 📫 How to reach me *shayanbabar128@gmail.com*
-
-- ⚡ Hobby *Coding and Cricket*
- 
-</div>
-<br/>
-<hr/>
 
 <h1 align="center">🔗 Connect with me:</h1>
 <br/>
@@ -42,8 +24,8 @@
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git," /><br/>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,nextjs," /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git," /><br/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,typescript,firebase,mongodb,nextjs," /><br>
 </div>
 
 <br/>

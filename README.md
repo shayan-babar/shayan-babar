@@ -20,7 +20,7 @@
 <br/>
 <hr/>
  
-<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+<h1 align="center">⚒️ Languages-Frameworks-Tools</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git," /><br/>
@@ -34,10 +34,11 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
+  <hr/>
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shayan-babar&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shayan-babar&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-babar&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shayan-babar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shayan-babar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-babar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

@@ -20,7 +20,7 @@
 <br/>
 <hr/>
  
-<h1 align="center">⚒️ Languages-Frameworks-Tools</h1>
+<h1 align="center">⚒️ Languages-Frameworks-Tools:</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git," /><br/>
